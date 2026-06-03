@@ -1,4 +1,4 @@
-﻿ID;Fecha;Tipo_Incidente;Ubicacion;Concesion;Severidad;Estado;Responsable;Tiempo_Resolucion_Horas
+﻿ID;Fecha;Tipo_Incidente;Ubicación;Concesión;Severidad;Estado;Responsable;Tiempo_Resolución_Horas
 1;12/05/2026;Falla eléctrica;Peaje Copacabana;Autopistas del Nordeste;Media;Abierto;Juan Pérez;
 2;13/06/2026;Mantenimiento;Rionegro;Túnel de Oriente;Media;Cerrado;María Restrepo;8
 3;1/06/2026;Falla eléctrica;Peaje Las Palmas;Vía al Oriente;Alta;Abierto;Juan Pérez;
